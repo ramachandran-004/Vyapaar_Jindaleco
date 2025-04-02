@@ -1,1 +1,1 @@
-Click Vyapaar.ipynb
+Click on Vyapaar.ipynb
